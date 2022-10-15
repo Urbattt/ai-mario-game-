@@ -1,8 +1,4 @@
-img = "";
-noseX = 0;
-noseY = 0;
-marioX = 325;
-marioY = 325;
+
 
 function preload() {
 	world_start = loadSound("world_start.wav");
